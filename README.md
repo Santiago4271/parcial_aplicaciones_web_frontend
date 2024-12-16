@@ -8,6 +8,7 @@
 
 1. Clona el repositorio:
    ```sh
+   git@github.com:Santiago4271/parcial_aplicaciones_web_frontend.git
 
 2. Navega al directorio del proyecto:
    
