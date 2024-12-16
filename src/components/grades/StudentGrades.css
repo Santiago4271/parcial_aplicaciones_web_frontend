@@ -1,0 +1,27 @@
+.student-grades-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .student-grades-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .student-grades-item button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .student-grades-item button:hover {
+    background-color: #c82333;
+  }
